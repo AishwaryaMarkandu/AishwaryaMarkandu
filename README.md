@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Aishwarya Markandu. Business × Data × Financial Services. Business and Data Transformation Consultant, Capgemini, Paris." width="100%">
+  <img src="./hero.svg" alt="Aishwarya Markandu. Business × Data × Financial Services. Business and Data Transformation Consultant, Capgemini, Paris." width="100%">
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Four personal portfolio projects, each built to show the same chain: **business 
 
 <br>
 
-<a href="https://github.com/AishwaryaMarkandu/banking-operations-transformation"><img src="./assets/case-02.svg" alt="Case study 02, Banking Operations and Transformation. 10.77 million complaints analysed, 99.54 percent timely response rate, 4 weighted dimensions in the priority score." width="100%"></a>
+<a href="https://github.com/AishwaryaMarkandu/banking-operations-transformation"><img src="./case-02.svg" alt="Case study 02, Banking Operations and Transformation. 10.77 million complaints analysed, 99.54 percent timely response rate, 4 weighted dimensions in the priority score." width="100%"></a>
 
 <table>
 <tr><th align="left" width="21%" valign="top">Business challenge</th><td>Where is customer pain concentrated in financial services, and which operational areas deserve transformation attention first?</td></tr>
