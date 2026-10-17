@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-labelledby="t d">
+  <title id="t">Aishwarya Markandu — Business × Data × Financial Services</title>
+  <desc id="d">Editorial banner with the name Aishwarya Markandu, the line Business, Data, Financial Services, and an illustrative rising line chart inside a retro window frame.</desc>
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset=".48" stop-color="#E6E1DC"/>
+      <stop offset=".52" stop-color="#CFC8C1"/><stop offset="1" stop-color="#F6F3F0"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E8BFCB" stop-opacity=".95"/><stop offset="1" stop-color="#E8BFCB" stop-opacity=".05"/></linearGradient>
+    <clipPath id="r"><rect width="1200" height="460" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="460" fill="#FAF8F5"/>
+    <rect x="0" y="0" width="14" height="460" fill="#6A1736"/>
+    <!-- eyebrow -->
+    <rect x="64" y="58" width="392" height="30" rx="15" fill="url(#chrome)" stroke="#C5A572" stroke-width="1.2"/>
+    <text x="84" y="78" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2" fill="#6A1736">THE FUTURE OF FINANCIAL INTELLIGENCE</text>
+    <!-- name -->
+    <text x="62" y="186" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="84" fill="#6A1736">Aishwarya</text>
+    <text x="62" y="270" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="84" font-style="italic" fill="#6A1736">Markandu</text>
+    <rect x="64" y="298" width="132" height="3" fill="#C5A572"/>
+    <text x="64" y="338" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="25" font-weight="600" fill="#172B4D">Business × Data × Financial Services</text>
+    <text x="64" y="370" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="14.5" fill="#242424" opacity=".78">Business &amp; Data Transformation Consultant · Capgemini · Paris</text>
+    <rect x="64" y="396" width="8" height="8" fill="#6A1736"/><rect x="78" y="396" width="8" height="8" fill="#E8BFCB"/><rect x="92" y="396" width="8" height="8" fill="#C5A572"/><rect x="106" y="396" width="8" height="8" fill="#172B4D"/>
+    <!-- retro window -->
+    <rect x="708" y="72" width="440" height="320" rx="14" fill="#E8BFCB" opacity=".55"/>
+    <rect x="700" y="64" width="440" height="320" rx="14" fill="#FFFFFF" stroke="#C9C2BB" stroke-width="1.5"/>
+    <path d="M700 78 a14 14 0 0 1 14 -14 H1126 a14 14 0 0 1 14 14 V98 H700 Z" fill="url(#chrome)"/>
+    <line x1="700" x2="1140" y1="98" y2="98" stroke="#C9C2BB"/>
+    <circle cx="722" cy="81" r="5.5" fill="#6A1736"/><circle cx="740" cy="81" r="5.5" fill="#E8BFCB"/><circle cx="758" cy="81" r="5.5" fill="#C5A572"/>
+    <text x="920" y="85" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#172B4D">fin_intelligence.exe</text>
+    <text x="724" y="124" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8A7F75">illustrative · not real data</text>
+    <line x1="724" x2="1116" y1="140" y2="140" stroke="#F0E8E0" stroke-width="1"/><line x1="724" x2="1116" y1="190" y2="190" stroke="#F0E8E0" stroke-width="1"/><line x1="724" x2="1116" y1="240" y2="240" stroke="#F0E8E0" stroke-width="1"/><line x1="724" x2="1116" y1="290" y2="290" stroke="#F0E8E0" stroke-width="1"/><line x1="724" x2="1116" y1="340" y2="340" stroke="#F0E8E0" stroke-width="1"/><rect x="733" y="328" width="14" height="12" fill="#E8BFCB" opacity=".7"/><rect x="766" y="322" width="14" height="18" fill="#E8BFCB" opacity=".7"/><rect x="799" y="330" width="14" height="10" fill="#E8BFCB" opacity=".7"/><rect x="831" y="318" width="14" height="22" fill="#E8BFCB" opacity=".7"/><rect x="864" y="324" width="14" height="16" fill="#E8BFCB" opacity=".7"/><rect x="897" y="314" width="14" height="26" fill="#E8BFCB" opacity=".7"/><rect x="930" y="326" width="14" height="14" fill="#E8BFCB" opacity=".7"/><rect x="962" y="316" width="14" height="24" fill="#E8BFCB" opacity=".7"/><rect x="995" y="320" width="14" height="20" fill="#E8BFCB" opacity=".7"/><rect x="1028" y="312" width="14" height="28" fill="#E8BFCB" opacity=".7"/><rect x="1061" y="322" width="14" height="18" fill="#E8BFCB" opacity=".7"/><rect x="1093" y="310" width="14" height="30" fill="#E8BFCB" opacity=".7"/>
+    <path d="M740 310 L773 296 L806 303 L838 272 L871 280 L904 246 L937 254 L969 220 L1002 206 L1035 212 L1068 176 L1100 152 L1100 340 L740 340 Z" fill="url(#area)"/>
+    <path d="M740 322 L838 304 L937 290 L1035 270 L1100 246" fill="none" stroke="#172B4D" stroke-width="2" stroke-dasharray="5 5" opacity=".7"/>
+    <path d="M740 310 L773 296 L806 303 L838 272 L871 280 L904 246 L937 254 L969 220 L1002 206 L1035 212 L1068 176 L1100 152" fill="none" stroke="#6A1736" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="838" cy="272" r="5.5" fill="#C5A572" stroke="#fff" stroke-width="2"/><circle cx="937" cy="254" r="5.5" fill="#C5A572" stroke="#fff" stroke-width="2"/><circle cx="1035" cy="212" r="5.5" fill="#C5A572" stroke="#fff" stroke-width="2"/><circle cx="1100" cy="152" r="5.5" fill="#C5A572" stroke="#fff" stroke-width="2"/><rect x="1098" y="122" width="6" height="6" fill="#C5A572"/><rect x="1092" y="128" width="6" height="6" fill="#C5A572"/><rect x="1104" y="128" width="6" height="6" fill="#C5A572"/><rect x="1098" y="134" width="6" height="6" fill="#C5A572"/><rect x="1098" y="128" width="6" height="6" fill="#C5A572"/>
+    <!-- ticker -->
+    <rect x="0" y="420" width="1200" height="40" fill="#6A1736"/>
+    <text x="64" y="445" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.4" fill="#FAF8F5">BANKING  ▪  INSURANCE  ▪  DATA &amp; AI  ▪  TRANSFORMATION  ▪  PMO  ▪  CHANGE &amp; UAT</text>
+  </g>
+</svg>
