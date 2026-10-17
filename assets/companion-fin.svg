@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" width="400" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Fin, a designer-toy AI companion</title>
+  <desc id="d">A small collectible-style robot with a navy screen face, pixel eyes, a candlestick antenna and a bar chart on its chest, saying ctrl plus alt plus insight.</desc>
+  <defs>
+    <linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#EDE8E3"/><stop offset="1" stop-color="#CFC8C1"/></linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8A2B52"/><stop offset="1" stop-color="#6A1736"/></linearGradient>
+  </defs>
+  <ellipse cx="200" cy="414" rx="112" ry="14" fill="#E8BFCB" opacity=".55"/>
+  <rect x="148" y="368" width="42" height="42" rx="16" fill="#6A1736"/><rect x="210" y="368" width="42" height="42" rx="16" fill="#6A1736"/>
+  <rect x="86" y="266" width="38" height="88" rx="19" fill="#E8BFCB" stroke="#6A1736" stroke-width="3"/>
+  <rect x="276" y="266" width="38" height="88" rx="19" fill="#E8BFCB" stroke="#6A1736" stroke-width="3"/>
+  <rect x="118" y="248" width="164" height="132" rx="36" fill="url(#body)"/>
+  <rect x="158" y="282" width="84" height="66" rx="12" fill="#FAF8F5"/>
+  <rect x="170" y="318" width="10" height="20" fill="#E8BFCB"/><rect x="186" y="308" width="10" height="30" fill="#C5A572"/>
+  <rect x="202" y="298" width="10" height="40" fill="#6A1736"/><rect x="218" y="290" width="10" height="48" fill="#172B4D"/>
+  <line x1="166" x2="234" y1="340" y2="340" stroke="#242424" stroke-width="1.5" opacity=".5"/>
+  <rect x="78" y="128" width="22" height="68" rx="11" fill="#6A1736"/><rect x="300" y="128" width="22" height="68" rx="11" fill="#6A1736"/>
+  <circle cx="89" cy="148" r="3.5" fill="#C5A572"/><circle cx="311" cy="148" r="3.5" fill="#C5A572"/>
+  <rect x="94" y="70" width="212" height="182" rx="58" fill="url(#head)" stroke="#C5A572" stroke-width="4"/>
+  <rect x="122" y="104" width="156" height="116" rx="32" fill="#172B4D"/>
+  <rect x="154" y="138" width="24" height="32" rx="7" fill="#E8BFCB"/><rect x="222" y="138" width="24" height="32" rx="7" fill="#E8BFCB"/>
+  <rect x="160" y="144" width="7" height="7" fill="#fff" opacity=".9"/><rect x="228" y="144" width="7" height="7" fill="#fff" opacity=".9"/>
+  <polyline points="174,188 182,196 218,196 226,188" fill="none" stroke="#C5A572" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="136" cy="196" r="8" fill="#E8BFCB" opacity=".7"/><circle cx="264" cy="196" r="8" fill="#E8BFCB" opacity=".7"/>
+  <line x1="200" x2="200" y1="72" y2="40" stroke="#C5A572" stroke-width="6" stroke-linecap="round"/>
+  <line x1="200" x2="200" y1="6" y2="52" stroke="#6A1736" stroke-width="2.5"/>
+  <rect x="189" y="14" width="22" height="28" rx="4" fill="#C5A572" stroke="#6A1736" stroke-width="2.5"/>
+  <rect x="256" y="14" width="136" height="34" rx="17" fill="#FAF8F5" stroke="#6A1736" stroke-width="2"/>
+  <polygon points="276,47 288,47 274,62" fill="#FAF8F5" stroke="#6A1736" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="274" y="44" width="16" height="4" fill="#FAF8F5"/>
+  <text x="324" y="36" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6A1736">ctrl+alt+insight</text>
+  <rect x="48" y="96" width="8" height="8" fill="#C5A572"/><rect x="40" y="104" width="8" height="8" fill="#E8BFCB"/><rect x="56" y="104" width="8" height="8" fill="#E8BFCB"/><rect x="48" y="112" width="8" height="8" fill="#C5A572"/>
+  <rect x="338" y="300" width="8" height="8" fill="#172B4D"/><rect x="352" y="312" width="6" height="6" fill="#C5A572"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t">
+  <title id="t">Case study 04: European Payments Transformation</title>
+  <defs><clipPath id="r"><rect width="1200" height="240" rx="20"/></clipPath>
+  <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#D9D3CD"/><stop offset="1" stop-color="#F6F3F0"/></linearGradient></defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="240" fill="#172B4D"/>
+    <rect y="0" width="1200" height="4" fill="#C5A572"/>
+    <text x="48" y="62" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.2" fill="#C5A572">CASE STUDY 04</text>
+    <text x="48" y="112" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="31" fill="#FAF8F5">European Payments Transformation</text>
+    <text x="48" y="146" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="15" fill="#E8BFCB">Instant payments: AS-IS to TO-BE roadmap, 2026–2029</text>
+    <rect x="48" y="182" width="405" height="26" rx="13" fill="none" stroke="#C5A572" stroke-width="1.2"/>
+    <text x="66" y="199" font-family="'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.4" fill="#C5A572">FICTIONAL BANK · MODELLED ASSUMPTIONS · EN / FR</text>
+    <line x1="696" x2="696" y1="56" y2="184" stroke="#C5A572" stroke-opacity=".55"/>
+    <text x="728" y="118" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="31" fill="#FAF8F5">2.0 / 5</text>
+    <text x="728" y="146" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">average maturity of</text>
+    <text x="728" y="162" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">8 lenses (modelled)</text>
+<text x="886" y="118" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="31" fill="#FAF8F5">9.1→2.5s</text>
+    <text x="886" y="146" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">p99 latency vs</text>
+    <text x="886" y="162" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">target (modelled)</text>
+<text x="1040" y="118" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="31" fill="#FAF8F5">4</text>
+    <text x="1040" y="146" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">roadmap phases,</text>
+    <text x="1040" y="162" font-family="'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#E8BFCB">2026–2029</text>
+
+    <rect x="1148" y="22" width="8" height="8" fill="#E8BFCB"/><rect x="1162" y="22" width="8" height="8" fill="#C5A572"/><rect x="1134" y="22" width="8" height="8" fill="#FAF8F5" opacity=".5"/>
+  </g>
+</svg>
